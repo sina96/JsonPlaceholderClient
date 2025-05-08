@@ -1,0 +1,17 @@
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/JsonPlaceholderClient
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/JsonPlaceholderClient.deps.json
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/JsonPlaceholderClient.runtimeconfig.json
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/JsonPlaceholderClient.dll
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/JsonPlaceholderClient.pdb
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.csproj.AssemblyReference.cache
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.AssemblyInfoInputs.cache
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.AssemblyInfo.cs
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.csproj.CoreCompileInputs.cache
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlac.5DB96BB2.Up2Date
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.dll
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/refint/JsonPlaceholderClient.dll
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.pdb
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/JsonPlaceholderClient.genruntimeconfig.cache
+/Users/sinabastani/Desktop/projects/Rider/JsonPlaceholderClient/JsonPlaceholderClient/obj/Debug/net9.0/ref/JsonPlaceholderClient.dll
